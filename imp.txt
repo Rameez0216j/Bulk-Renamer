@@ -1,0 +1,8 @@
+npm init -y
+
+# You can create a bash file in windows where you can run any bash command (using .bat extension)
+# Double click on the bat file here and you get the file renamed 
+
+
+# Your task is to make rename.bat file portable 
+i.e take rename.bat to any place and click on it to rename files in the current folder
